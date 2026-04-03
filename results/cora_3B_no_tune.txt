@@ -1,0 +1,11 @@
+output/cora/node_classification/test/ego.jsonl accuracy: 126/501 (25.15%)  time:0h 0m 29.00s  input_tokens:77114  avg_input_tokens:153.92
+output/cora/node_classification/test/ego_CoT.jsonl accuracy: 126/501 (25.15%)  time:0h 19m 45.00s  input_tokens:79050  avg_input_tokens:157.78
+output/cora/node_classification/test/ego_BAG.jsonl accuracy: 104/501 (20.76%)  time:0h 19m 45.00s  input_tokens:84636  avg_input_tokens:168.93
+output/cora/node_classification/test/ego_few_shot.jsonl accuracy: 194/501 (38.72%)  time:0h 0m 52.00s  input_tokens:154319  avg_input_tokens:308.02
+output/cora/node_classification/test/1_hop_without_label.jsonl accuracy: 195/501 (38.92%)  time:0h 1m 12.00s  input_tokens:131578  avg_input_tokens:262.63
+output/cora/node_classification/test/2_hop_without_label.jsonl accuracy: 247/501 (49.30%)  time:0h 2m 13.00s  input_tokens:190114  avg_input_tokens:379.47
+output/cora/node_classification/test/2_hop_without_label_st_co.jsonl accuracy: 251/501 (50.10%)  time:0h 0m 50.00s  input_tokens:120045  avg_input_tokens:239.61
+output/cora/node_classification/test/2_hop_without_label_se_co.jsonl accuracy: 250/501 (49.90%)  time:0h 0m 55.00s  input_tokens:116421  avg_input_tokens:232.38
+output/cora/node_classification/test/2_hop_without_label_st_se_co.jsonl accuracy: 246/501 (49.10%)  time:0h 0m 47.00s  input_tokens:120007  avg_input_tokens:239.53
+output/cora/node_classification/test/2_hop_without_label_st_se_co_no_su.jsonl accuracy: 207/501 (41.32%)  time:0h 0m 49.00s  input_tokens:111643  avg_input_tokens:222.84
+

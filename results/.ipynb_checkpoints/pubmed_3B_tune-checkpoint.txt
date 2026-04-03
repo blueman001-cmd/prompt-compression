@@ -1,0 +1,4 @@
+output/pubmed/node_classification/test/2_hop_without_label_st.jsonl accuracy: 470/501 (93.81%)  time:0h 1m 21.00s  input_tokens:125862  avg_input_tokens:251.22
+output/pubmed/node_classification/test/2_hop_without_label_se.jsonl accuracy: 466/501 (93.01%)  time:0h 1m 22.00s  input_tokens:124873  avg_input_tokens:249.25
+output/pubmed/node_classification/test/2_hop_without_label_st_se.jsonl accuracy: 466/501 (93.01%)  time:0h 1m 21.00s  input_tokens:125662  avg_input_tokens:250.82
+output/pubmed/node_classification/test/2_hop_without_label.jsonl accuracy: 455/501 (90.82%)  time:0h 1m 26.00s  input_tokens:231129  avg_input_tokens:461.34

@@ -1,0 +1,4 @@
+output/cora/node_classification/test/2_hop_without_label_st_co.jsonl accuracy: 405/501 (80.84%)  time:0h 0m 58.00s  input_tokens:120045  avg_input_tokens:239.61
+output/cora/node_classification/test/2_hop_without_label_se_co.jsonl accuracy: 397/501 (79.24%)  time:0h 0m 58.00s  input_tokens:116421  avg_input_tokens:232.38
+output/cora/node_classification/test/2_hop_without_label_st_se_co.jsonl accuracy: 410/501 (81.84%)  time:0h 0m 59.00s  input_tokens:120007  avg_input_tokens:239.53
+output/cora/node_classification/test/2_hop_without_label.jsonl accuracy: 439/501 (87.62%)  time:0h 1m 1.00s  input_tokens:190114  avg_input_tokens:379.47

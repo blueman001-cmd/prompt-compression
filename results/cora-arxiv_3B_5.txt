@@ -1,0 +1,4 @@
+output/arxiv/node_classification/test/2_hop_without_label.jsonl accuracy: 158/501 (31.54%)  time:0h 1m 3.00s  input_tokens:310648  avg_input_tokens:620.06
+output/arxiv/node_classification/test/2_hop_without_label_st.jsonl accuracy: 162/501 (32.34%)  time:0h 0m 56.00s  input_tokens:183483  avg_input_tokens:366.23
+output/arxiv/node_classification/test/2_hop_without_label_se.jsonl accuracy: 150/501 (29.94%)  time:0h 0m 55.00s  input_tokens:184282  avg_input_tokens:367.83
+output/arxiv/node_classification/test/2_hop_without_label_st_se.jsonl accuracy: 162/501 (32.34%)  time:0h 0m 55.00s  input_tokens:183399  avg_input_tokens:366.07
